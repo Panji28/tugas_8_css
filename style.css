@@ -1,0 +1,39 @@
+body{
+    background-image: url(pemandangan.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.satu{
+    background-image: url(avocado.jpg);
+    background-color: white;
+    background-size: 200px;
+    overflow: scroll;
+    border-style: solid;
+    float: left;
+    background-repeat: repeat-y;
+    width: 900px;
+    height: 400px;
+}
+
+p{
+    color: blue;
+    font-size: 26px;
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.dua{
+  color: green;
+  font-size: 26px;
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.tiga{
+ color: red;
+ font-size: 26px;
+ font-family: 'Times New Roman', Times, serif;
+ 
+
+}
